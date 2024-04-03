@@ -1810,6 +1810,20 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Infrastructure Layer/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.1.32",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.32"
+        },
+        "compile": {
+          "bin/placeholder/Infrastructure Layer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrastructure Layer.dll": {}
+        }
       }
     }
   },
@@ -6366,10 +6380,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "Infrastructure Layer/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure Layer/Infrastructure Layer.csproj",
+      "msbuildProject": "../Infrastructure Layer/Infrastructure Layer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Infrastructure Layer >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 3.1.32",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.32",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.32",
@@ -6402,7 +6422,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\DELL\\Desktop\\DetallesPagos\\DetallesPagos\\Infrastructure Layer\\Infrastructure Layer.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Desktop\\DetallesPagos\\DetallesPagos\\Infrastructure Layer\\Infrastructure Layer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
