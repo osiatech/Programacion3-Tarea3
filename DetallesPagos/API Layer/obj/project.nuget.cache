@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZQqHfn5t+wqYlWJI6/sg57s769A6/ohb1CCm9EnpzgZowqiPDfuxUh+MxCypG6C7FZgvxisJRcljMdxl6xZYZA==",
+  "dgSpecHash": "eWZwCUxkDopH+d4Tk+sS524uo8ZMv03Paa+fPsqRoYuTg44TcbFspAmoy9J9yXE02bT4uiqxgmB9QNxuxXgpHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Desktop\\DetallesPagos\\DetallesPagos\\API Layer\\API Layer.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\PaymentDetails\\PaymentDetails\\PaymentApp\\Programacion3-Tarea3\\DetallesPagos\\API Layer\\API Layer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
