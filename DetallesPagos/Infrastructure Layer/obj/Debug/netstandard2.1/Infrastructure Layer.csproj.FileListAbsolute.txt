@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\DetallesPagos\DetallesPagos\Infrastructure Layer\bin\Debug\netstandard2.1\Infrastructure Layer.deps.json
+C:\Users\DELL\Desktop\DetallesPagos\DetallesPagos\Infrastructure Layer\bin\Debug\netstandard2.1\Infrastructure Layer.dll
+C:\Users\DELL\Desktop\DetallesPagos\DetallesPagos\Infrastructure Layer\bin\Debug\netstandard2.1\Infrastructure Layer.pdb
+C:\Users\DELL\Desktop\DetallesPagos\DetallesPagos\Infrastructure Layer\obj\Debug\netstandard2.1\Infrastructure Layer.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DetallesPagos\DetallesPagos\Infrastructure Layer\obj\Debug\netstandard2.1\Infrastructure Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DetallesPagos\DetallesPagos\Infrastructure Layer\obj\Debug\netstandard2.1\Infrastructure Layer.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DetallesPagos\DetallesPagos\Infrastructure Layer\obj\Debug\netstandard2.1\Infrastructure Layer.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DetallesPagos\DetallesPagos\Infrastructure Layer\obj\Debug\netstandard2.1\Infrastructure Layer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DetallesPagos\DetallesPagos\Infrastructure Layer\obj\Debug\netstandard2.1\Infrastructure Layer.sourcelink.json
+C:\Users\DELL\Desktop\DetallesPagos\DetallesPagos\Infrastructure Layer\obj\Debug\netstandard2.1\Infrastructure Layer.dll
+C:\Users\DELL\Desktop\DetallesPagos\DetallesPagos\Infrastructure Layer\obj\Debug\netstandard2.1\Infrastructure Layer.pdb
